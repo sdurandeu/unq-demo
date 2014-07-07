@@ -1,9 +1,9 @@
 ﻿namespace MySampleApp.Tests
 {
-    using MySampleApp.Model;
-    using MySampleApp.Services;
     using System.Collections.Generic;
     using System.Diagnostics.CodeAnalysis;
+    using MySampleApp.Model;
+    using MySampleApp.Services;
 
     [ExcludeFromCodeCoverage]
     public class RepositoryClientMock : IRepositoryClient

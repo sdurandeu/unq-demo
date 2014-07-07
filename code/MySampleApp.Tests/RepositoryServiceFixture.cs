@@ -1,9 +1,9 @@
 ﻿namespace MySampleApp.Tests
 {
     using System;
+    using System.Diagnostics.CodeAnalysis;
     using System.Linq;
     using Microsoft.VisualStudio.TestTools.UnitTesting;
-    using System.Diagnostics.CodeAnalysis;
 
     [ExcludeFromCodeCoverage]
     [TestClass]
